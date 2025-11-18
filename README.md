@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No.7 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1025" height="431" alt="image" src="https://github.com/user-attachments/assets/868f76ae-12ff-410b-8097-7a5cbb4672cc" />
+
+
+### Name:KIRUBANITHI S
+### Register Number:212223220047
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
